@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">مودم‌یار</string>
+    <string name="app_subtitle">عیب‌یاب و بهینه‌ساز هوشمند مودم</string>
+
+    <!-- Navigation Tabs -->
+    <string name="nav_diagnostics">عیب‌یاب</string>
+    <string name="nav_speed">تست سرعت</string>
+    <string name="nav_router">کنترل مودم</string>
+    <string name="nav_history">گزارش‌ها</string>
+
+    <!-- Diagnostics & Auto-Fix -->
+    <string name="btn_scan_and_autofix">اسکن و رفع عیب خودکار</string>
+    <string name="btn_scan_only">فقط بررسی شبکه</string>
+    <string name="btn_autofix_now">رفع عیب خودکار</string>
+    <string name="btn_stop_scan">توقف عملیات</string>
+    <string name="section_diagnostic_checks">مراحل عیب‌یابی مودم و شبکه</string>
+    <string name="section_autofix_log">گزارش رفع عیب خودکار</string>
+    <string name="section_before_after">مقایسه قبل و بعد از بهینه‌سازی</string>
+    <string name="label_health_score">امتیاز سلامت</string>
+    <string name="label_gateway_ip">آدرس مودم</string>
+    <string name="label_local_ip">آی‌پی دستگاه</string>
+    <string name="label_signal_strength">قدرت سیگنال</string>
+    <string name="label_link_speed">سرعت لینک</string>
+    <string name="label_band">باند فرکانسی</string>
+    <string name="label_dns_active">دی‌ان‌اس فعال</string>
+
+    <!-- Speed Lab -->
+    <string name="speed_start_test">شروع تست سرعت واقعی</string>
+    <string name="speed_testing">در حال اندازه‌گیری…</string>
+    <string name="speed_download">دانلود</string>
+    <string name="speed_upload">آپلود</string>
+    <string name="speed_ping">پینگ</string>
+    <string name="speed_jitter">جیتر</string>
+    <string name="speed_packet_loss">پکت لاس</string>
+    <string name="speed_bufferbloat">پینگ تحت بار</string>
+    <string name="dns_optimizer_title">بهینه‌ساز خودکار DNS</string>
+    <string name="dns_benchmark_btn">تست سریع سرورهای DNS</string>
+    <string name="dns_open_settings">تنظیم DNS خصوصی</string>
+
+    <!-- Router Control & Channel Radar -->
+    <string name="router_panel_title">پنل مستقیم مدیریت مودم</string>
+    <string name="router_open_embedded">باز کردن پنل مودم در برنامه</string>
+    <string name="router_open_browser">باز کردن در مرورگر</string>
+    <string name="router_refresh_wifi">تجدید اتصال وای‌فای</string>
+    <string name="channel_radar_title">رادار تداخل کانال‌های وای‌فای</string>
+    <string name="channel_scan_btn">اسکن کانال‌های اطراف</string>
+    <string name="channel_permission_msg">برای بررسی شلوغی کانال‌های وای‌فای اطراف و پیشنهاد بهترین کانال مودم، مجوز موقعیت مکانی اندروید مورد نیاز است.</string>
+    <string name="channel_grant_permission">فعال‌سازی اسکن کانال</string>
+
+    <!-- History -->
+    <string name="history_title">تاریخچه عیب‌یابی و تست سرعت</string>
+    <string name="history_clear_all">پاک کردن تاریخچه</string>
+    <string name="history_empty_title">هنوز گزارشی ثبت نشده است</string>
+    <string name="history_empty_desc">اولین اسکن عیب‌یابی یا تست سرعت را اجرا کنید تا روند سلامت مودم و سرعت اینترنت شما ثبت شود.</string>
+
+    <!-- Accessibility Content Descriptions -->
+    <string name="cd_modem_hero">تصویر مودم هوشمند</string>
+    <string name="cd_refresh_telemetry">به‌روزرسانی اطلاعات مودم</string>
+    <string name="cd_back">بازگشت</string>
+    <string name="cd_copy">کپی کردن</string>
+    <string name="cd_delete_record">حذف گزارش</string>
+</resources>

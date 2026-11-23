@@ -1,0 +1,6 @@
+{
+  "name": "مودم‌یار",
+  "description": "عیب‌یاب هوشمند مودم، رفع عیب خودکار شبکه و بهینه‌ساز سرعت اینترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
